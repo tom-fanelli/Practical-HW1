@@ -2,35 +2,35 @@
 
 ## Step 1.1:
 
-* Address of account A: 
-* Address of account B: 
+* Address of account A: 55KKAYRHTJGJGIS3BFTAEP2O2MF4G2GZHCVBLR5O7GQECQB2HL4RSOM63E
+* Address of account B: EV2TJA5U22T3HAUUK2ZSZOXD7BATXVNO6CES3PLYY44KS2JEVEU5F7ENK4
 
 ## Step 2:
 
-* Transaction ID from account A: 
-* Transaction ID from account B: 
+* Transaction ID from account A: 63NU676MJCYTGYHIQDC7W24UTU3CC2PPSRXHL7M3QP6SNDE24SCQ
+* Transaction ID from account B: XHWCPHIK2CZVV4WWXEX3X5QGYPY3TKB2FDAV77ZHT3PC7J6VJWDA
 
 ## Step 3.1:
 
-* Asset ID:
-* Name of the asset: 
+* Asset ID: 69828450
+* Name of the asset: BERRY
 
 ## Step 3.2:
 
-* Transaction ID for opt-in of account B:
+* Transaction ID for opt-in of account B: DCGRE7K3LRA5Q2XS2JVQRV2TJI55AQLAMCVXMNJ3N3AWIGJO6CDQ
 
 ## Step 3.3:
 
-* Transaction ID for transfer of asset from A to B:
+* Transaction ID for transfer of asset from A to B: RVI4ISI5GCQHZY2Y6PWY2R6PAIZD3BYY4OUCEHVKHQ6AL4CAMFZA
 
 ## Step 4:
 
-* Transaction ID of the first transaction of the atomic transfer:
+* Transaction ID of the first transaction of the atomic transfer: OFKDXBOVAJFE7HOXNF4AAFVLMH4O6VATKEDK56KTGMBULT2VOBJA
 
 ## Step 5.1:
 
-* Transaction ID for opt-in of account A:
+* Transaction ID for opt-in of account A: JOLSBSCI6BKWFCDDOVPVIMA2UEE6OM6GEPZ6FDJPFPELVN26HIMQ
 
 ## Step 5.2:
 
-* Transaction ID of the first transaction of the atomic transfer:
+* Transaction ID of the first transaction of the atomic transfer: CNTWGFLDR56RHKNL4CGPQ4UCYYFIVBYYCCQYA54XAN27UIG2EJPQ
